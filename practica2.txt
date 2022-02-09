@@ -1,1 +1,2 @@
 info mi rey, ponete las pilas... comproba el 2do commit
+ésto se agregó desde github
